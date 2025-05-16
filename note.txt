@@ -1,0 +1,44 @@
+CSS => Casecading style sheet (style)
+Bootstrap =>(style)=>Framework of CSS
+
+Class tag id
+
+way of integrating Bootstrap
+
+1.CDN Link
+2.Download File
+
+===Grid system===
+
+12
+
+Bootstrap color:
+
+1.Success=green
+2.Info=paste
+3.Warning=orange
+4.Danger=red
+5.Dark=black
+6.Light=white
+7.Primary=blue
+8.Secondary=ashh
+
+
+col-1
+col-2
+col-3
+col-4
+col-5
+....
+col-12
+
+col-sm
+col-md
+col-lg
+col-xl
+
+
+top=>top=mt
+bottom=>bottom=mb
+left=>start=ms
+right=>end=me
